@@ -5,6 +5,7 @@
 #include <cstddef>
 #include <string>
 
+
 TEST_CASE("checkLetter_UnusedAsciiLetters_ReturnsSuccessWithoutChangingState", "[hangman]") {
     const bool expectedHasValue = true;
     const bool expectedValue = true;
