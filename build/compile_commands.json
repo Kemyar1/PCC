@@ -1,0 +1,68 @@
+[
+{
+  "directory": "D:/3-semestr/PCC/Semestralni_prace/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -ID:/3-semestr/PCC/Semestralni_prace -g -std=gnu++23 -Wall -Wextra -Wpedantic -o CMakeFiles\\HangmanCore.dir\\core\\HangmanGame.cpp.obj -c D:\\3-semestr\\PCC\\Semestralni_prace\\core\\HangmanGame.cpp",
+  "file": "D:/3-semestr/PCC/Semestralni_prace/core/HangmanGame.cpp",
+  "output": "D:/3-semestr/PCC/Semestralni_prace/build/CMakeFiles/HangmanCore.dir/core/HangmanGame.cpp.obj"
+},
+{
+  "directory": "D:/3-semestr/PCC/Semestralni_prace/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -ID:/3-semestr/PCC/Semestralni_prace -g -std=gnu++23 -Wall -Wextra -Wpedantic -o CMakeFiles\\HangmanCore.dir\\core\\WordBank.cpp.obj -c D:\\3-semestr\\PCC\\Semestralni_prace\\core\\WordBank.cpp",
+  "file": "D:/3-semestr/PCC/Semestralni_prace/core/WordBank.cpp",
+  "output": "D:/3-semestr/PCC/Semestralni_prace/build/CMakeFiles/HangmanCore.dir/core/WordBank.cpp.obj"
+},
+{
+  "directory": "D:/3-semestr/PCC/Semestralni_prace/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -ID:/3-semestr/PCC/Semestralni_prace/tests/vendor -ID:/3-semestr/PCC/Semestralni_prace -g -std=gnu++23 -o CMakeFiles\\HangmanTests.dir\\tests\\TestMain.cpp.obj -c D:\\3-semestr\\PCC\\Semestralni_prace\\tests\\TestMain.cpp",
+  "file": "D:/3-semestr/PCC/Semestralni_prace/tests/TestMain.cpp",
+  "output": "D:/3-semestr/PCC/Semestralni_prace/build/CMakeFiles/HangmanTests.dir/tests/TestMain.cpp.obj"
+},
+{
+  "directory": "D:/3-semestr/PCC/Semestralni_prace/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -ID:/3-semestr/PCC/Semestralni_prace/tests/vendor -ID:/3-semestr/PCC/Semestralni_prace -g -std=gnu++23 -o CMakeFiles\\HangmanTests.dir\\tests\\ResultTest.cpp.obj -c D:\\3-semestr\\PCC\\Semestralni_prace\\tests\\ResultTest.cpp",
+  "file": "D:/3-semestr/PCC/Semestralni_prace/tests/ResultTest.cpp",
+  "output": "D:/3-semestr/PCC/Semestralni_prace/build/CMakeFiles/HangmanTests.dir/tests/ResultTest.cpp.obj"
+},
+{
+  "directory": "D:/3-semestr/PCC/Semestralni_prace/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -ID:/3-semestr/PCC/Semestralni_prace/tests/vendor -ID:/3-semestr/PCC/Semestralni_prace -g -std=gnu++23 -o CMakeFiles\\HangmanTests.dir\\tests\\WordBankTest.cpp.obj -c D:\\3-semestr\\PCC\\Semestralni_prace\\tests\\WordBankTest.cpp",
+  "file": "D:/3-semestr/PCC/Semestralni_prace/tests/WordBankTest.cpp",
+  "output": "D:/3-semestr/PCC/Semestralni_prace/build/CMakeFiles/HangmanTests.dir/tests/WordBankTest.cpp.obj"
+},
+{
+  "directory": "D:/3-semestr/PCC/Semestralni_prace/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -ID:/3-semestr/PCC/Semestralni_prace/tests/vendor -ID:/3-semestr/PCC/Semestralni_prace -g -std=gnu++23 -o CMakeFiles\\HangmanTests.dir\\tests\\HangmanGameTest.cpp.obj -c D:\\3-semestr\\PCC\\Semestralni_prace\\tests\\HangmanGameTest.cpp",
+  "file": "D:/3-semestr/PCC/Semestralni_prace/tests/HangmanGameTest.cpp",
+  "output": "D:/3-semestr/PCC/Semestralni_prace/build/CMakeFiles/HangmanTests.dir/tests/HangmanGameTest.cpp.obj"
+},
+{
+  "directory": "D:/3-semestr/PCC/Semestralni_prace/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -ID:/3-semestr/PCC/Semestralni_prace/tests/vendor -ID:/3-semestr/PCC/Semestralni_prace -g -std=gnu++23 -o CMakeFiles\\HangmanTests.dir\\tests\\TerminalUITest.cpp.obj -c D:\\3-semestr\\PCC\\Semestralni_prace\\tests\\TerminalUITest.cpp",
+  "file": "D:/3-semestr/PCC/Semestralni_prace/tests/TerminalUITest.cpp",
+  "output": "D:/3-semestr/PCC/Semestralni_prace/build/CMakeFiles/HangmanTests.dir/tests/TerminalUITest.cpp.obj"
+},
+{
+  "directory": "D:/3-semestr/PCC/Semestralni_prace/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -ID:/3-semestr/PCC/Semestralni_prace/tests/vendor -ID:/3-semestr/PCC/Semestralni_prace -g -std=gnu++23 -o CMakeFiles\\HangmanTests.dir\\ui\\TerminalUI.cpp.obj -c D:\\3-semestr\\PCC\\Semestralni_prace\\ui\\TerminalUI.cpp",
+  "file": "D:/3-semestr/PCC/Semestralni_prace/ui/TerminalUI.cpp",
+  "output": "D:/3-semestr/PCC/Semestralni_prace/build/CMakeFiles/HangmanTests.dir/ui/TerminalUI.cpp.obj"
+},
+{
+  "directory": "D:/3-semestr/PCC/Semestralni_prace/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -ID:/3-semestr/PCC/Semestralni_prace -g -std=gnu++23 -Wall -Wextra -Wpedantic -o CMakeFiles\\HangmanApp.dir\\main.cpp.obj -c D:\\3-semestr\\PCC\\Semestralni_prace\\main.cpp",
+  "file": "D:/3-semestr/PCC/Semestralni_prace/main.cpp",
+  "output": "D:/3-semestr/PCC/Semestralni_prace/build/CMakeFiles/HangmanApp.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/3-semestr/PCC/Semestralni_prace/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -ID:/3-semestr/PCC/Semestralni_prace -g -std=gnu++23 -Wall -Wextra -Wpedantic -o CMakeFiles\\HangmanApp.dir\\app\\HangmanApp.cpp.obj -c D:\\3-semestr\\PCC\\Semestralni_prace\\app\\HangmanApp.cpp",
+  "file": "D:/3-semestr/PCC/Semestralni_prace/app/HangmanApp.cpp",
+  "output": "D:/3-semestr/PCC/Semestralni_prace/build/CMakeFiles/HangmanApp.dir/app/HangmanApp.cpp.obj"
+},
+{
+  "directory": "D:/3-semestr/PCC/Semestralni_prace/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -ID:/3-semestr/PCC/Semestralni_prace -g -std=gnu++23 -Wall -Wextra -Wpedantic -o CMakeFiles\\HangmanApp.dir\\ui\\TerminalUI.cpp.obj -c D:\\3-semestr\\PCC\\Semestralni_prace\\ui\\TerminalUI.cpp",
+  "file": "D:/3-semestr/PCC/Semestralni_prace/ui/TerminalUI.cpp",
+  "output": "D:/3-semestr/PCC/Semestralni_prace/build/CMakeFiles/HangmanApp.dir/ui/TerminalUI.cpp.obj"
+}
+]

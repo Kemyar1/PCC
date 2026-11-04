@@ -1,0 +1,51 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "Скомпилировать проект",
+            "command": "powershell",
+            "args": [
+                "-Command",
+                "& 'C:/msys64/ucrt64/bin/g++.exe' -fdiagnostics-color=always -Wall -Wextra -g3 -std=c++23 -I'${workspaceFolder}' (Get-ChildItem -Recurse -Filter *.cpp '${workspaceFolder}' | Select-Object -ExpandProperty FullName) -o '${workspaceFolder}/output/main.exe'"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "type": "shell",
+            "label": "C/C++: g++.exe сборка активного файла",
+            "command": "C:/msys64/ucrt64/bin/g++.exe",
+            "args": [
+                "-fdiagnostics-color=always",
+                "-Wall",
+                "-Wextra",
+                "-g3",
+                "-std=c++23",
+                "-I${workspaceFolder}",
+                "${file}",
+                "-o",
+                "${workspaceFolder}/output/${fileBasenameNoExtension}.exe"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            },
+            "detail": "Сборка только текущего открытого файла"
+        }
+    ]
+}

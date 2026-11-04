@@ -1,0 +1,12 @@
+CompileFlags:
+  Add:
+    - -std=c++23
+    - -Wall
+    - -Wextra
+    - -I.
+    - -I${workspaceFolder}/app
+    - -I${workspaceFolder}/core
+  Compiler: C:/msys64/ucrt64/bin/g++.exe
+
+Index:
+  Background: Build

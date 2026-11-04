@@ -1,0 +1,5 @@
+if(EXISTS "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests_tests-b12d07c.cmake")
+  include("D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests_tests-b12d07c.cmake")
+else()
+  add_test(HangmanTests_NOT_BUILT-b12d07c HangmanTests_NOT_BUILT-b12d07c)
+endif()

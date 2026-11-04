@@ -1,0 +1,19 @@
+Debuging:
+
+cmake -S . -B build -DCMAKE_BUILD_TYPE=Debug
+
+Hlavni command:
+
+cmake --build build -j 2
+
+Testy+result:
+
+ctest --test-dir build --output-on-failure
+
+Testy bez resultu:
+
+ctest --test-dir build -N
+
+START :D:
+
+.\build\HangmanApp.exe

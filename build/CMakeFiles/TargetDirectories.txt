@@ -1,0 +1,6 @@
+D:/3-semestr/PCC/Semestralni_prace/build/CMakeFiles/HangmanCore.dir
+D:/3-semestr/PCC/Semestralni_prace/build/CMakeFiles/HangmanTests.dir
+D:/3-semestr/PCC/Semestralni_prace/build/CMakeFiles/HangmanApp.dir
+D:/3-semestr/PCC/Semestralni_prace/build/CMakeFiles/test.dir
+D:/3-semestr/PCC/Semestralni_prace/build/CMakeFiles/edit_cache.dir
+D:/3-semestr/PCC/Semestralni_prace/build/CMakeFiles/rebuild_cache.dir
