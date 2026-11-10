@@ -7,6 +7,7 @@
 #include <string>
 #include <memory>
 
+// Controls application startup and the main menu; TerminalUI handles each round.
 class HangmanApp {
     private:
         std::unique_ptr<TerminalUI> commandUI;

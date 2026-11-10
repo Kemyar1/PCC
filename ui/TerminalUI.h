@@ -7,6 +7,8 @@
 #include "../core/library/Result.h"
 #include <iostream>
 
+// Handles terminal input, messages and drawing; HangmanGame owns the game rules.
+// Stream references allow the same UI to use the terminal or test string streams.
 class TerminalUI {
     private:
         HangmanGame &game;

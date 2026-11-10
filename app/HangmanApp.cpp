@@ -1,3 +1,4 @@
+// Application flow: process arguments, read menu choices and launch game rounds.
 #include "HangmanApp.h"
 #include "../core/HangmanGame.h"
 
@@ -26,6 +27,7 @@ std::optional<int> HangmanApp::readInt(const std::string &prompt) {
         return std::nullopt;
     }
 
+    // Consume the menu line so the next round starts reading a fresh line.
     std::string remainingLine;
     std::getline(std::cin, remainingLine);
 
@@ -34,6 +36,7 @@ std::optional<int> HangmanApp::readInt(const std::string &prompt) {
 
 void HangmanApp::run(int argc, char* argv[]) {
 
+    // Show help before entering the menu; the dictionary is not loaded here.
     for (int index = 1; index < argc; ++index) {
         const std::string argument = argv[index];
 

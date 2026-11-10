@@ -7,6 +7,7 @@
 #include <string>
 #include <algorithm>
 
+// Reads dictionary words and stores the secret word together with its visible mask.
 class WordBank {
     private:
         std::string guessWord;

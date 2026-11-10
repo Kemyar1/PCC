@@ -1,3 +1,4 @@
+// Tests value/error access, invalid access and move semantics of the custom Result.
 #include "../core/library/Result.h"
 #include "vendor/catch.hpp"
 

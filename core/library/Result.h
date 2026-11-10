@@ -3,6 +3,8 @@
 
 #include <memory>
 
+// Factories construct either a value or an error.
+// Unique ownership allows moving a Result and prevents copying it.
 template<typename V, typename E>
 class Result {
 private:
@@ -30,6 +32,7 @@ public:
         return hasValue();
     }
 
+    // Reading an absent value or error throws std::logic_error.
     const V& value() const {
         if (!value_) {
             throw std::logic_error("Result does not contain a value");

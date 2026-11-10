@@ -1,3 +1,4 @@
+// Tests dictionary loading, word selection, masking and file-related boundary cases.
 #include "../core/WordBank.h"
 #include "TestData.h"
 #include "vendor/catch.hpp"

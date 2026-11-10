@@ -1,3 +1,4 @@
+// Dictionary loading, random word selection and updates to the visible word mask.
 #include "WordBank.h"
 #include <random>
 #include <vector>
@@ -7,6 +8,7 @@
 WordBank::WordBank(const std::string& filePath)
     : filePath(filePath) {}
 
+// Reveal every occurrence of the letter while keeping the mask the same length.
 void WordBank::openLetter(const char userLetter) {
     for (size_t i = 0; i < guessWord.length(); ++i) {
         if (guessWord[i] == userLetter) {
@@ -48,6 +50,7 @@ const std::optional<int> WordBank::getRandomNumber() const {
 
     std::random_device rd;
     std::mt19937 gen(rd());
+    // Word numbers start at one; chooseRandomWord converts them to vector indices.
     std::uniform_int_distribution<int> distrib(1, *totalWords);
 
     return distrib(gen);
@@ -63,6 +66,7 @@ const Result<std::string, RandomWorldError> WordBank::chooseRandomWord() const {
     std::vector<std::string> words; 
     std::string word;
     
+    // Whitespace separates entries; normalize ASCII uppercase letters for guessing.
     while (file >> word) {
         for (char& letter : word) {
             if (letter >= 'A' && letter <= 'Z') {
@@ -95,6 +99,7 @@ void WordBank::encryptWord() {
 GameInitStatus WordBank::createWord() {
     auto randomWord = chooseRandomWord();   
     if (!randomWord.hasValue()) {
+        // Discard the previous word and mask if the new round cannot be initialized.
         guessWord.clear();
         encryptedWord.clear();
 

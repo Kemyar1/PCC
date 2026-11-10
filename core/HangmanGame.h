@@ -5,6 +5,7 @@
 #include "HangmanResult.h"
 #include "GameInitStatus.h"
 
+// Stores the round state and applies game rules independently of terminal input/output.
 class HangmanGame {
     private:
         WordBank bank;

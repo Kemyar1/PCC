@@ -1,10 +1,10 @@
-Start testing: Nov 06 11:59 Central Europe Standard Time
+Start testing: Nov 09 20:41 Central Europe Standard Time
 ----------------------------------------------------------
 1/57 Testing: handleTypeLetter_CorrectLetter_OpensLetterAndPrintsSuccess
 1/57 Test: handleTypeLetter_CorrectLetter_OpensLetterAndPrintsSuccess
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "handleTypeLetter_CorrectLetter_OpensLetterAndPrintsSuccess"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"handleTypeLetter_CorrectLetter_OpensLetterAndPrintsSuccess" start time: Nov 06 11:59 Central Europe Standard Time
+"handleTypeLetter_CorrectLetter_OpensLetterAndPrintsSuccess" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: handleTypeLetter_CorrectLetter_OpensLetterAndPrintsSuccess
@@ -12,10 +12,10 @@ Filters: handleTypeLetter_CorrectLetter_OpensLetterAndPrintsSuccess
 All tests passed (4 assertions in 1 test case)
 
 <end of output>
-Test time =   0.02 sec
+Test time =   0.03 sec
 ----------------------------------------------------------
 Test Passed.
-"handleTypeLetter_CorrectLetter_OpensLetterAndPrintsSuccess" end time: Nov 06 11:59 Central Europe Standard Time
+"handleTypeLetter_CorrectLetter_OpensLetterAndPrintsSuccess" end time: Nov 09 20:41 Central Europe Standard Time
 "handleTypeLetter_CorrectLetter_OpensLetterAndPrintsSuccess" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -23,7 +23,7 @@ Test Passed.
 2/57 Test: handleTypeLetter_WrongLetter_AddsMistakeAndPrintsFeedback
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "handleTypeLetter_WrongLetter_AddsMistakeAndPrintsFeedback"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"handleTypeLetter_WrongLetter_AddsMistakeAndPrintsFeedback" start time: Nov 06 11:59 Central Europe Standard Time
+"handleTypeLetter_WrongLetter_AddsMistakeAndPrintsFeedback" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: handleTypeLetter_WrongLetter_AddsMistakeAndPrintsFeedback
@@ -34,7 +34,7 @@ All tests passed (5 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"handleTypeLetter_WrongLetter_AddsMistakeAndPrintsFeedback" end time: Nov 06 11:59 Central Europe Standard Time
+"handleTypeLetter_WrongLetter_AddsMistakeAndPrintsFeedback" end time: Nov 09 20:41 Central Europe Standard Time
 "handleTypeLetter_WrongLetter_AddsMistakeAndPrintsFeedback" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -42,7 +42,7 @@ Test Passed.
 3/57 Test: handleTypeLetter_RepeatedLetter_PrintsDuplicateErrorWithoutNewMistake
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "handleTypeLetter_RepeatedLetter_PrintsDuplicateErrorWithoutNewMistake"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"handleTypeLetter_RepeatedLetter_PrintsDuplicateErrorWithoutNewMistake" start time: Nov 06 11:59 Central Europe Standard Time
+"handleTypeLetter_RepeatedLetter_PrintsDuplicateErrorWithoutNewMistake" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: handleTypeLetter_RepeatedLetter_PrintsDuplicateErrorWithoutNewMistake
@@ -53,7 +53,7 @@ All tests passed (6 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"handleTypeLetter_RepeatedLetter_PrintsDuplicateErrorWithoutNewMistake" end time: Nov 06 11:59 Central Europe Standard Time
+"handleTypeLetter_RepeatedLetter_PrintsDuplicateErrorWithoutNewMistake" end time: Nov 09 20:41 Central Europe Standard Time
 "handleTypeLetter_RepeatedLetter_PrintsDuplicateErrorWithoutNewMistake" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -61,7 +61,7 @@ Test Passed.
 4/57 Test: handleTypeLetter_MultipleCharacters_ReturnsInvalidTypeWithoutChangingState
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "handleTypeLetter_MultipleCharacters_ReturnsInvalidTypeWithoutChangingState"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"handleTypeLetter_MultipleCharacters_ReturnsInvalidTypeWithoutChangingState" start time: Nov 06 11:59 Central Europe Standard Time
+"handleTypeLetter_MultipleCharacters_ReturnsInvalidTypeWithoutChangingState" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: handleTypeLetter_MultipleCharacters_ReturnsInvalidTypeWithoutChangingState
@@ -72,7 +72,7 @@ All tests passed (12 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"handleTypeLetter_MultipleCharacters_ReturnsInvalidTypeWithoutChangingState" end time: Nov 06 11:59 Central Europe Standard Time
+"handleTypeLetter_MultipleCharacters_ReturnsInvalidTypeWithoutChangingState" end time: Nov 09 20:41 Central Europe Standard Time
 "handleTypeLetter_MultipleCharacters_ReturnsInvalidTypeWithoutChangingState" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -80,7 +80,7 @@ Test Passed.
 5/57 Test: handleTypeLetter_Punctuation_ReturnsInvalidTypeWithoutChangingState
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "handleTypeLetter_Punctuation_ReturnsInvalidTypeWithoutChangingState"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"handleTypeLetter_Punctuation_ReturnsInvalidTypeWithoutChangingState" start time: Nov 06 11:59 Central Europe Standard Time
+"handleTypeLetter_Punctuation_ReturnsInvalidTypeWithoutChangingState" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: handleTypeLetter_Punctuation_ReturnsInvalidTypeWithoutChangingState
@@ -91,7 +91,7 @@ All tests passed (5 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"handleTypeLetter_Punctuation_ReturnsInvalidTypeWithoutChangingState" end time: Nov 06 11:59 Central Europe Standard Time
+"handleTypeLetter_Punctuation_ReturnsInvalidTypeWithoutChangingState" end time: Nov 09 20:41 Central Europe Standard Time
 "handleTypeLetter_Punctuation_ReturnsInvalidTypeWithoutChangingState" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -99,7 +99,7 @@ Test Passed.
 6/57 Test: handleTypeLetter_LineWithTwoLetters_ReturnsInvalidTypeWithoutChangingState
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "handleTypeLetter_LineWithTwoLetters_ReturnsInvalidTypeWithoutChangingState"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"handleTypeLetter_LineWithTwoLetters_ReturnsInvalidTypeWithoutChangingState" start time: Nov 06 11:59 Central Europe Standard Time
+"handleTypeLetter_LineWithTwoLetters_ReturnsInvalidTypeWithoutChangingState" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: handleTypeLetter_LineWithTwoLetters_ReturnsInvalidTypeWithoutChangingState
@@ -110,7 +110,7 @@ All tests passed (6 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"handleTypeLetter_LineWithTwoLetters_ReturnsInvalidTypeWithoutChangingState" end time: Nov 06 11:59 Central Europe Standard Time
+"handleTypeLetter_LineWithTwoLetters_ReturnsInvalidTypeWithoutChangingState" end time: Nov 09 20:41 Central Europe Standard Time
 "handleTypeLetter_LineWithTwoLetters_ReturnsInvalidTypeWithoutChangingState" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -118,7 +118,7 @@ Test Passed.
 7/57 Test: handleTypeLetter_EmptyLine_ReturnsInvalidTypeWithoutConsumingNextLine
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "handleTypeLetter_EmptyLine_ReturnsInvalidTypeWithoutConsumingNextLine"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"handleTypeLetter_EmptyLine_ReturnsInvalidTypeWithoutConsumingNextLine" start time: Nov 06 11:59 Central Europe Standard Time
+"handleTypeLetter_EmptyLine_ReturnsInvalidTypeWithoutConsumingNextLine" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: handleTypeLetter_EmptyLine_ReturnsInvalidTypeWithoutConsumingNextLine
@@ -126,10 +126,10 @@ Filters: handleTypeLetter_EmptyLine_ReturnsInvalidTypeWithoutConsumingNextLine
 All tests passed (7 assertions in 1 test case)
 
 <end of output>
-Test time =   0.01 sec
+Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"handleTypeLetter_EmptyLine_ReturnsInvalidTypeWithoutConsumingNextLine" end time: Nov 06 11:59 Central Europe Standard Time
+"handleTypeLetter_EmptyLine_ReturnsInvalidTypeWithoutConsumingNextLine" end time: Nov 09 20:41 Central Europe Standard Time
 "handleTypeLetter_EmptyLine_ReturnsInvalidTypeWithoutConsumingNextLine" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -137,7 +137,7 @@ Test Passed.
 8/57 Test: handlePrintUserStatus_Playing_ReturnsPlayingWithoutFinalMessage
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "handlePrintUserStatus_Playing_ReturnsPlayingWithoutFinalMessage"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"handlePrintUserStatus_Playing_ReturnsPlayingWithoutFinalMessage" start time: Nov 06 11:59 Central Europe Standard Time
+"handlePrintUserStatus_Playing_ReturnsPlayingWithoutFinalMessage" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: handlePrintUserStatus_Playing_ReturnsPlayingWithoutFinalMessage
@@ -145,10 +145,10 @@ Filters: handlePrintUserStatus_Playing_ReturnsPlayingWithoutFinalMessage
 All tests passed (3 assertions in 1 test case)
 
 <end of output>
-Test time =   0.01 sec
+Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"handlePrintUserStatus_Playing_ReturnsPlayingWithoutFinalMessage" end time: Nov 06 11:59 Central Europe Standard Time
+"handlePrintUserStatus_Playing_ReturnsPlayingWithoutFinalMessage" end time: Nov 09 20:41 Central Europe Standard Time
 "handlePrintUserStatus_Playing_ReturnsPlayingWithoutFinalMessage" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -156,7 +156,7 @@ Test Passed.
 9/57 Test: handlePrintUserStatus_Won_PrintsWinAndSecretWord
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "handlePrintUserStatus_Won_PrintsWinAndSecretWord"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"handlePrintUserStatus_Won_PrintsWinAndSecretWord" start time: Nov 06 11:59 Central Europe Standard Time
+"handlePrintUserStatus_Won_PrintsWinAndSecretWord" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: handlePrintUserStatus_Won_PrintsWinAndSecretWord
@@ -167,7 +167,7 @@ All tests passed (7 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"handlePrintUserStatus_Won_PrintsWinAndSecretWord" end time: Nov 06 11:59 Central Europe Standard Time
+"handlePrintUserStatus_Won_PrintsWinAndSecretWord" end time: Nov 09 20:41 Central Europe Standard Time
 "handlePrintUserStatus_Won_PrintsWinAndSecretWord" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -175,7 +175,7 @@ Test Passed.
 10/57 Test: handlePrintUserStatus_Lost_PrintsGameOverAndSecretWord
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "handlePrintUserStatus_Lost_PrintsGameOverAndSecretWord"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"handlePrintUserStatus_Lost_PrintsGameOverAndSecretWord" start time: Nov 06 11:59 Central Europe Standard Time
+"handlePrintUserStatus_Lost_PrintsGameOverAndSecretWord" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: handlePrintUserStatus_Lost_PrintsGameOverAndSecretWord
@@ -186,7 +186,7 @@ All tests passed (10 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"handlePrintUserStatus_Lost_PrintsGameOverAndSecretWord" end time: Nov 06 11:59 Central Europe Standard Time
+"handlePrintUserStatus_Lost_PrintsGameOverAndSecretWord" end time: Nov 09 20:41 Central Europe Standard Time
 "handlePrintUserStatus_Lost_PrintsGameOverAndSecretWord" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -194,7 +194,7 @@ Test Passed.
 11/57 Test: execute_MissingDictionary_PrintsErrorWithoutReportingWin
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "execute_MissingDictionary_PrintsErrorWithoutReportingWin"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"execute_MissingDictionary_PrintsErrorWithoutReportingWin" start time: Nov 06 11:59 Central Europe Standard Time
+"execute_MissingDictionary_PrintsErrorWithoutReportingWin" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: execute_MissingDictionary_PrintsErrorWithoutReportingWin
@@ -205,7 +205,7 @@ All tests passed (2 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"execute_MissingDictionary_PrintsErrorWithoutReportingWin" end time: Nov 06 11:59 Central Europe Standard Time
+"execute_MissingDictionary_PrintsErrorWithoutReportingWin" end time: Nov 09 20:41 Central Europe Standard Time
 "execute_MissingDictionary_PrintsErrorWithoutReportingWin" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -213,7 +213,7 @@ Test Passed.
 12/57 Test: execute_EndOfInput_ReturnsWithoutInvalidInputOrWin
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "execute_EndOfInput_ReturnsWithoutInvalidInputOrWin"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"execute_EndOfInput_ReturnsWithoutInvalidInputOrWin" start time: Nov 06 11:59 Central Europe Standard Time
+"execute_EndOfInput_ReturnsWithoutInvalidInputOrWin" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: execute_EndOfInput_ReturnsWithoutInvalidInputOrWin
@@ -224,7 +224,7 @@ All tests passed (4 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"execute_EndOfInput_ReturnsWithoutInvalidInputOrWin" end time: Nov 06 11:59 Central Europe Standard Time
+"execute_EndOfInput_ReturnsWithoutInvalidInputOrWin" end time: Nov 09 20:41 Central Europe Standard Time
 "execute_EndOfInput_ReturnsWithoutInvalidInputOrWin" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -232,7 +232,7 @@ Test Passed.
 13/57 Test: execute_LastWinningLetterWithoutNewline_PrintsWin
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "execute_LastWinningLetterWithoutNewline_PrintsWin"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"execute_LastWinningLetterWithoutNewline_PrintsWin" start time: Nov 06 11:59 Central Europe Standard Time
+"execute_LastWinningLetterWithoutNewline_PrintsWin" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: execute_LastWinningLetterWithoutNewline_PrintsWin
@@ -240,10 +240,10 @@ Filters: execute_LastWinningLetterWithoutNewline_PrintsWin
 All tests passed (4 assertions in 1 test case)
 
 <end of output>
-Test time =   0.01 sec
+Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"execute_LastWinningLetterWithoutNewline_PrintsWin" end time: Nov 06 11:59 Central Europe Standard Time
+"execute_LastWinningLetterWithoutNewline_PrintsWin" end time: Nov 09 20:41 Central Europe Standard Time
 "execute_LastWinningLetterWithoutNewline_PrintsWin" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -251,7 +251,7 @@ Test Passed.
 14/57 Test: execute_EmptyDictionary_PrintsErrorWithoutReportingWin
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "execute_EmptyDictionary_PrintsErrorWithoutReportingWin"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"execute_EmptyDictionary_PrintsErrorWithoutReportingWin" start time: Nov 06 11:59 Central Europe Standard Time
+"execute_EmptyDictionary_PrintsErrorWithoutReportingWin" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: execute_EmptyDictionary_PrintsErrorWithoutReportingWin
@@ -259,10 +259,10 @@ Filters: execute_EmptyDictionary_PrintsErrorWithoutReportingWin
 All tests passed (2 assertions in 1 test case)
 
 <end of output>
-Test time =   0.03 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"execute_EmptyDictionary_PrintsErrorWithoutReportingWin" end time: Nov 06 11:59 Central Europe Standard Time
+"execute_EmptyDictionary_PrintsErrorWithoutReportingWin" end time: Nov 09 20:41 Central Europe Standard Time
 "execute_EmptyDictionary_PrintsErrorWithoutReportingWin" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -270,7 +270,7 @@ Test Passed.
 15/57 Test: checkLetter_UnusedAsciiLetters_ReturnsSuccessWithoutChangingState
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "checkLetter_UnusedAsciiLetters_ReturnsSuccessWithoutChangingState"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"checkLetter_UnusedAsciiLetters_ReturnsSuccessWithoutChangingState" start time: Nov 06 11:59 Central Europe Standard Time
+"checkLetter_UnusedAsciiLetters_ReturnsSuccessWithoutChangingState" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: checkLetter_UnusedAsciiLetters_ReturnsSuccessWithoutChangingState
@@ -278,10 +278,10 @@ Filters: checkLetter_UnusedAsciiLetters_ReturnsSuccessWithoutChangingState
 All tests passed (12 assertions in 1 test case)
 
 <end of output>
-Test time =   0.01 sec
+Test time =   0.03 sec
 ----------------------------------------------------------
 Test Passed.
-"checkLetter_UnusedAsciiLetters_ReturnsSuccessWithoutChangingState" end time: Nov 06 11:59 Central Europe Standard Time
+"checkLetter_UnusedAsciiLetters_ReturnsSuccessWithoutChangingState" end time: Nov 09 20:41 Central Europe Standard Time
 "checkLetter_UnusedAsciiLetters_ReturnsSuccessWithoutChangingState" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -289,7 +289,7 @@ Test Passed.
 16/57 Test: checkLetter_NonAlphabeticCharacters_ReturnsInvalidType
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "checkLetter_NonAlphabeticCharacters_ReturnsInvalidType"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"checkLetter_NonAlphabeticCharacters_ReturnsInvalidType" start time: Nov 06 11:59 Central Europe Standard Time
+"checkLetter_NonAlphabeticCharacters_ReturnsInvalidType" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: checkLetter_NonAlphabeticCharacters_ReturnsInvalidType
@@ -300,7 +300,7 @@ All tests passed (17 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"checkLetter_NonAlphabeticCharacters_ReturnsInvalidType" end time: Nov 06 11:59 Central Europe Standard Time
+"checkLetter_NonAlphabeticCharacters_ReturnsInvalidType" end time: Nov 09 20:41 Central Europe Standard Time
 "checkLetter_NonAlphabeticCharacters_ReturnsInvalidType" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -308,7 +308,7 @@ Test Passed.
 17/57 Test: checkLetter_UsedLetter_ReturnsLetterWasUsed
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "checkLetter_UsedLetter_ReturnsLetterWasUsed"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"checkLetter_UsedLetter_ReturnsLetterWasUsed" start time: Nov 06 11:59 Central Europe Standard Time
+"checkLetter_UsedLetter_ReturnsLetterWasUsed" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: checkLetter_UsedLetter_ReturnsLetterWasUsed
@@ -316,10 +316,10 @@ Filters: checkLetter_UsedLetter_ReturnsLetterWasUsed
 All tests passed (5 assertions in 1 test case)
 
 <end of output>
-Test time =   0.01 sec
+Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"checkLetter_UsedLetter_ReturnsLetterWasUsed" end time: Nov 06 11:59 Central Europe Standard Time
+"checkLetter_UsedLetter_ReturnsLetterWasUsed" end time: Nov 09 20:41 Central Europe Standard Time
 "checkLetter_UsedLetter_ReturnsLetterWasUsed" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -327,7 +327,7 @@ Test Passed.
 18/57 Test: guessLetter_LetterInWord_RevealsAllOccurrencesWithoutMistake
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "guessLetter_LetterInWord_RevealsAllOccurrencesWithoutMistake"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"guessLetter_LetterInWord_RevealsAllOccurrencesWithoutMistake" start time: Nov 06 11:59 Central Europe Standard Time
+"guessLetter_LetterInWord_RevealsAllOccurrencesWithoutMistake" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: guessLetter_LetterInWord_RevealsAllOccurrencesWithoutMistake
@@ -338,7 +338,7 @@ All tests passed (7 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"guessLetter_LetterInWord_RevealsAllOccurrencesWithoutMistake" end time: Nov 06 11:59 Central Europe Standard Time
+"guessLetter_LetterInWord_RevealsAllOccurrencesWithoutMistake" end time: Nov 09 20:41 Central Europe Standard Time
 "guessLetter_LetterInWord_RevealsAllOccurrencesWithoutMistake" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -346,7 +346,7 @@ Test Passed.
 19/57 Test: guessLetter_LetterOutsideWord_AddsOneMistakeAndRecordsLetter
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "guessLetter_LetterOutsideWord_AddsOneMistakeAndRecordsLetter"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"guessLetter_LetterOutsideWord_AddsOneMistakeAndRecordsLetter" start time: Nov 06 11:59 Central Europe Standard Time
+"guessLetter_LetterOutsideWord_AddsOneMistakeAndRecordsLetter" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: guessLetter_LetterOutsideWord_AddsOneMistakeAndRecordsLetter
@@ -357,7 +357,7 @@ All tests passed (7 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"guessLetter_LetterOutsideWord_AddsOneMistakeAndRecordsLetter" end time: Nov 06 11:59 Central Europe Standard Time
+"guessLetter_LetterOutsideWord_AddsOneMistakeAndRecordsLetter" end time: Nov 09 20:41 Central Europe Standard Time
 "guessLetter_LetterOutsideWord_AddsOneMistakeAndRecordsLetter" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -365,7 +365,7 @@ Test Passed.
 20/57 Test: guessLetter_RepeatedCorrectLetter_ReturnsLetterWasUsedWithoutChangingState
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "guessLetter_RepeatedCorrectLetter_ReturnsLetterWasUsedWithoutChangingState"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"guessLetter_RepeatedCorrectLetter_ReturnsLetterWasUsedWithoutChangingState" start time: Nov 06 11:59 Central Europe Standard Time
+"guessLetter_RepeatedCorrectLetter_ReturnsLetterWasUsedWithoutChangingState" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: guessLetter_RepeatedCorrectLetter_ReturnsLetterWasUsedWithoutChangingState
@@ -376,7 +376,7 @@ All tests passed (7 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"guessLetter_RepeatedCorrectLetter_ReturnsLetterWasUsedWithoutChangingState" end time: Nov 06 11:59 Central Europe Standard Time
+"guessLetter_RepeatedCorrectLetter_ReturnsLetterWasUsedWithoutChangingState" end time: Nov 09 20:41 Central Europe Standard Time
 "guessLetter_RepeatedCorrectLetter_ReturnsLetterWasUsedWithoutChangingState" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -384,7 +384,7 @@ Test Passed.
 21/57 Test: guessLetter_RepeatedWrongLetter_DoesNotAddAnotherMistake
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "guessLetter_RepeatedWrongLetter_DoesNotAddAnotherMistake"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"guessLetter_RepeatedWrongLetter_DoesNotAddAnotherMistake" start time: Nov 06 11:59 Central Europe Standard Time
+"guessLetter_RepeatedWrongLetter_DoesNotAddAnotherMistake" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: guessLetter_RepeatedWrongLetter_DoesNotAddAnotherMistake
@@ -392,10 +392,10 @@ Filters: guessLetter_RepeatedWrongLetter_DoesNotAddAnotherMistake
 All tests passed (6 assertions in 1 test case)
 
 <end of output>
-Test time =   0.02 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"guessLetter_RepeatedWrongLetter_DoesNotAddAnotherMistake" end time: Nov 06 11:59 Central Europe Standard Time
+"guessLetter_RepeatedWrongLetter_DoesNotAddAnotherMistake" end time: Nov 09 20:41 Central Europe Standard Time
 "guessLetter_RepeatedWrongLetter_DoesNotAddAnotherMistake" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -403,7 +403,7 @@ Test Passed.
 22/57 Test: guessLetter_InvalidCharacter_DoesNotChangeGameState
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "guessLetter_InvalidCharacter_DoesNotChangeGameState"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"guessLetter_InvalidCharacter_DoesNotChangeGameState" start time: Nov 06 11:59 Central Europe Standard Time
+"guessLetter_InvalidCharacter_DoesNotChangeGameState" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: guessLetter_InvalidCharacter_DoesNotChangeGameState
@@ -411,10 +411,10 @@ Filters: guessLetter_InvalidCharacter_DoesNotChangeGameState
 All tests passed (13 assertions in 1 test case)
 
 <end of output>
-Test time =   0.01 sec
+Test time =   0.03 sec
 ----------------------------------------------------------
 Test Passed.
-"guessLetter_InvalidCharacter_DoesNotChangeGameState" end time: Nov 06 11:59 Central Europe Standard Time
+"guessLetter_InvalidCharacter_DoesNotChangeGameState" end time: Nov 09 20:41 Central Europe Standard Time
 "guessLetter_InvalidCharacter_DoesNotChangeGameState" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -422,7 +422,7 @@ Test Passed.
 23/57 Test: isUserWin_NewRound_ReturnsPlaying
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "isUserWin_NewRound_ReturnsPlaying"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"isUserWin_NewRound_ReturnsPlaying" start time: Nov 06 11:59 Central Europe Standard Time
+"isUserWin_NewRound_ReturnsPlaying" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: isUserWin_NewRound_ReturnsPlaying
@@ -433,7 +433,7 @@ All tests passed (2 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"isUserWin_NewRound_ReturnsPlaying" end time: Nov 06 11:59 Central Europe Standard Time
+"isUserWin_NewRound_ReturnsPlaying" end time: Nov 09 20:41 Central Europe Standard Time
 "isUserWin_NewRound_ReturnsPlaying" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -441,7 +441,7 @@ Test Passed.
 24/57 Test: isUserWin_AllLettersGuessed_ReturnsWon
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "isUserWin_AllLettersGuessed_ReturnsWon"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"isUserWin_AllLettersGuessed_ReturnsWon" start time: Nov 06 11:59 Central Europe Standard Time
+"isUserWin_AllLettersGuessed_ReturnsWon" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: isUserWin_AllLettersGuessed_ReturnsWon
@@ -452,7 +452,7 @@ All tests passed (8 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"isUserWin_AllLettersGuessed_ReturnsWon" end time: Nov 06 11:59 Central Europe Standard Time
+"isUserWin_AllLettersGuessed_ReturnsWon" end time: Nov 09 20:41 Central Europe Standard Time
 "isUserWin_AllLettersGuessed_ReturnsWon" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -460,7 +460,7 @@ Test Passed.
 25/57 Test: isUserWin_FiveWrongGuesses_ReturnsPlaying
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "isUserWin_FiveWrongGuesses_ReturnsPlaying"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"isUserWin_FiveWrongGuesses_ReturnsPlaying" start time: Nov 06 11:59 Central Europe Standard Time
+"isUserWin_FiveWrongGuesses_ReturnsPlaying" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: isUserWin_FiveWrongGuesses_ReturnsPlaying
@@ -471,7 +471,7 @@ All tests passed (13 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"isUserWin_FiveWrongGuesses_ReturnsPlaying" end time: Nov 06 11:59 Central Europe Standard Time
+"isUserWin_FiveWrongGuesses_ReturnsPlaying" end time: Nov 09 20:41 Central Europe Standard Time
 "isUserWin_FiveWrongGuesses_ReturnsPlaying" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -479,7 +479,7 @@ Test Passed.
 26/57 Test: isUserWin_SixWrongGuesses_ReturnsLost
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "isUserWin_SixWrongGuesses_ReturnsLost"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"isUserWin_SixWrongGuesses_ReturnsLost" start time: Nov 06 11:59 Central Europe Standard Time
+"isUserWin_SixWrongGuesses_ReturnsLost" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: isUserWin_SixWrongGuesses_ReturnsLost
@@ -490,7 +490,7 @@ All tests passed (10 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"isUserWin_SixWrongGuesses_ReturnsLost" end time: Nov 06 11:59 Central Europe Standard Time
+"isUserWin_SixWrongGuesses_ReturnsLost" end time: Nov 09 20:41 Central Europe Standard Time
 "isUserWin_SixWrongGuesses_ReturnsLost" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -498,7 +498,7 @@ Test Passed.
 27/57 Test: resetGame_PlayedRound_ClearsMistakesLettersAndMask
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "resetGame_PlayedRound_ClearsMistakesLettersAndMask"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"resetGame_PlayedRound_ClearsMistakesLettersAndMask" start time: Nov 06 11:59 Central Europe Standard Time
+"resetGame_PlayedRound_ClearsMistakesLettersAndMask" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: resetGame_PlayedRound_ClearsMistakesLettersAndMask
@@ -509,7 +509,7 @@ All tests passed (10 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"resetGame_PlayedRound_ClearsMistakesLettersAndMask" end time: Nov 06 11:59 Central Europe Standard Time
+"resetGame_PlayedRound_ClearsMistakesLettersAndMask" end time: Nov 09 20:41 Central Europe Standard Time
 "resetGame_PlayedRound_ClearsMistakesLettersAndMask" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -517,7 +517,7 @@ Test Passed.
 28/57 Test: resetGame_FinishedRound_StartsPlaying
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "resetGame_FinishedRound_StartsPlaying"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"resetGame_FinishedRound_StartsPlaying" start time: Nov 06 11:59 Central Europe Standard Time
+"resetGame_FinishedRound_StartsPlaying" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: resetGame_FinishedRound_StartsPlaying
@@ -528,7 +528,7 @@ All tests passed (23 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"resetGame_FinishedRound_StartsPlaying" end time: Nov 06 11:59 Central Europe Standard Time
+"resetGame_FinishedRound_StartsPlaying" end time: Nov 09 20:41 Central Europe Standard Time
 "resetGame_FinishedRound_StartsPlaying" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -536,7 +536,7 @@ Test Passed.
 29/57 Test: resetGame_EmptyDictionary_ReturnsIndexWordNotExist
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "resetGame_EmptyDictionary_ReturnsIndexWordNotExist"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"resetGame_EmptyDictionary_ReturnsIndexWordNotExist" start time: Nov 06 11:59 Central Europe Standard Time
+"resetGame_EmptyDictionary_ReturnsIndexWordNotExist" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: resetGame_EmptyDictionary_ReturnsIndexWordNotExist
@@ -547,7 +547,7 @@ All tests passed (1 assertion in 1 test case)
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"resetGame_EmptyDictionary_ReturnsIndexWordNotExist" end time: Nov 06 11:59 Central Europe Standard Time
+"resetGame_EmptyDictionary_ReturnsIndexWordNotExist" end time: Nov 09 20:41 Central Europe Standard Time
 "resetGame_EmptyDictionary_ReturnsIndexWordNotExist" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -555,7 +555,7 @@ Test Passed.
 30/57 Test: guessLetter_UppercaseLetter_RevealsLowercaseWordWithoutMistake
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "guessLetter_UppercaseLetter_RevealsLowercaseWordWithoutMistake"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"guessLetter_UppercaseLetter_RevealsLowercaseWordWithoutMistake" start time: Nov 06 11:59 Central Europe Standard Time
+"guessLetter_UppercaseLetter_RevealsLowercaseWordWithoutMistake" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: guessLetter_UppercaseLetter_RevealsLowercaseWordWithoutMistake
@@ -566,7 +566,7 @@ All tests passed (6 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"guessLetter_UppercaseLetter_RevealsLowercaseWordWithoutMistake" end time: Nov 06 11:59 Central Europe Standard Time
+"guessLetter_UppercaseLetter_RevealsLowercaseWordWithoutMistake" end time: Nov 09 20:41 Central Europe Standard Time
 "guessLetter_UppercaseLetter_RevealsLowercaseWordWithoutMistake" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -574,7 +574,7 @@ Test Passed.
 31/57 Test: checkLetter_SameLetterInDifferentCase_ReturnsLetterWasUsed
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "checkLetter_SameLetterInDifferentCase_ReturnsLetterWasUsed"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"checkLetter_SameLetterInDifferentCase_ReturnsLetterWasUsed" start time: Nov 06 11:59 Central Europe Standard Time
+"checkLetter_SameLetterInDifferentCase_ReturnsLetterWasUsed" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: checkLetter_SameLetterInDifferentCase_ReturnsLetterWasUsed
@@ -585,7 +585,7 @@ All tests passed (5 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"checkLetter_SameLetterInDifferentCase_ReturnsLetterWasUsed" end time: Nov 06 11:59 Central Europe Standard Time
+"checkLetter_SameLetterInDifferentCase_ReturnsLetterWasUsed" end time: Nov 09 20:41 Central Europe Standard Time
 "checkLetter_SameLetterInDifferentCase_ReturnsLetterWasUsed" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -593,7 +593,7 @@ Test Passed.
 32/57 Test: isUserWin_EmptyDictionary_ReturnsPlayingWithoutFalseWin
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "isUserWin_EmptyDictionary_ReturnsPlayingWithoutFalseWin"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"isUserWin_EmptyDictionary_ReturnsPlayingWithoutFalseWin" start time: Nov 06 11:59 Central Europe Standard Time
+"isUserWin_EmptyDictionary_ReturnsPlayingWithoutFalseWin" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: isUserWin_EmptyDictionary_ReturnsPlayingWithoutFalseWin
@@ -601,10 +601,10 @@ Filters: isUserWin_EmptyDictionary_ReturnsPlayingWithoutFalseWin
 All tests passed (2 assertions in 1 test case)
 
 <end of output>
-Test time =   0.01 sec
+Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"isUserWin_EmptyDictionary_ReturnsPlayingWithoutFalseWin" end time: Nov 06 11:59 Central Europe Standard Time
+"isUserWin_EmptyDictionary_ReturnsPlayingWithoutFalseWin" end time: Nov 09 20:41 Central Europe Standard Time
 "isUserWin_EmptyDictionary_ReturnsPlayingWithoutFalseWin" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -612,7 +612,7 @@ Test Passed.
 33/57 Test: getWordCount_MissingFile_ReturnsNoValue
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "getWordCount_MissingFile_ReturnsNoValue"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"getWordCount_MissingFile_ReturnsNoValue" start time: Nov 06 11:59 Central Europe Standard Time
+"getWordCount_MissingFile_ReturnsNoValue" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: getWordCount_MissingFile_ReturnsNoValue
@@ -623,7 +623,7 @@ All tests passed (1 assertion in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"getWordCount_MissingFile_ReturnsNoValue" end time: Nov 06 11:59 Central Europe Standard Time
+"getWordCount_MissingFile_ReturnsNoValue" end time: Nov 09 20:41 Central Europe Standard Time
 "getWordCount_MissingFile_ReturnsNoValue" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -631,7 +631,7 @@ Test Passed.
 34/57 Test: getWordCount_EmptyAndWhitespaceFiles_ReturnsZero
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "getWordCount_EmptyAndWhitespaceFiles_ReturnsZero"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"getWordCount_EmptyAndWhitespaceFiles_ReturnsZero" start time: Nov 06 11:59 Central Europe Standard Time
+"getWordCount_EmptyAndWhitespaceFiles_ReturnsZero" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: getWordCount_EmptyAndWhitespaceFiles_ReturnsZero
@@ -639,10 +639,10 @@ Filters: getWordCount_EmptyAndWhitespaceFiles_ReturnsZero
 All tests passed (4 assertions in 1 test case)
 
 <end of output>
-Test time =   0.02 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"getWordCount_EmptyAndWhitespaceFiles_ReturnsZero" end time: Nov 06 11:59 Central Europe Standard Time
+"getWordCount_EmptyAndWhitespaceFiles_ReturnsZero" end time: Nov 09 20:41 Central Europe Standard Time
 "getWordCount_EmptyAndWhitespaceFiles_ReturnsZero" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -650,7 +650,7 @@ Test Passed.
 35/57 Test: getWordCount_SeveralWordsAcrossLines_CountsAllWords
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "getWordCount_SeveralWordsAcrossLines_CountsAllWords"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"getWordCount_SeveralWordsAcrossLines_CountsAllWords" start time: Nov 06 11:59 Central Europe Standard Time
+"getWordCount_SeveralWordsAcrossLines_CountsAllWords" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: getWordCount_SeveralWordsAcrossLines_CountsAllWords
@@ -658,10 +658,10 @@ Filters: getWordCount_SeveralWordsAcrossLines_CountsAllWords
 All tests passed (2 assertions in 1 test case)
 
 <end of output>
-Test time =   0.04 sec
+Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"getWordCount_SeveralWordsAcrossLines_CountsAllWords" end time: Nov 06 11:59 Central Europe Standard Time
+"getWordCount_SeveralWordsAcrossLines_CountsAllWords" end time: Nov 09 20:41 Central Europe Standard Time
 "getWordCount_SeveralWordsAcrossLines_CountsAllWords" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -669,7 +669,7 @@ Test Passed.
 36/57 Test: getRandomNumber_SingleWord_ReturnsOne
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "getRandomNumber_SingleWord_ReturnsOne"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"getRandomNumber_SingleWord_ReturnsOne" start time: Nov 06 11:59 Central Europe Standard Time
+"getRandomNumber_SingleWord_ReturnsOne" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: getRandomNumber_SingleWord_ReturnsOne
@@ -680,7 +680,7 @@ All tests passed (2 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"getRandomNumber_SingleWord_ReturnsOne" end time: Nov 06 11:59 Central Europe Standard Time
+"getRandomNumber_SingleWord_ReturnsOne" end time: Nov 09 20:41 Central Europe Standard Time
 "getRandomNumber_SingleWord_ReturnsOne" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -688,7 +688,7 @@ Test Passed.
 37/57 Test: getRandomNumber_MissingOrEmptyFile_ReturnsNoValue
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "getRandomNumber_MissingOrEmptyFile_ReturnsNoValue"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"getRandomNumber_MissingOrEmptyFile_ReturnsNoValue" start time: Nov 06 11:59 Central Europe Standard Time
+"getRandomNumber_MissingOrEmptyFile_ReturnsNoValue" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: getRandomNumber_MissingOrEmptyFile_ReturnsNoValue
@@ -699,7 +699,7 @@ All tests passed (3 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"getRandomNumber_MissingOrEmptyFile_ReturnsNoValue" end time: Nov 06 11:59 Central Europe Standard Time
+"getRandomNumber_MissingOrEmptyFile_ReturnsNoValue" end time: Nov 09 20:41 Central Europe Standard Time
 "getRandomNumber_MissingOrEmptyFile_ReturnsNoValue" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -707,7 +707,7 @@ Test Passed.
 38/57 Test: getRandomNumber_SeveralWords_StaysWithinWordCount
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "getRandomNumber_SeveralWords_StaysWithinWordCount"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"getRandomNumber_SeveralWords_StaysWithinWordCount" start time: Nov 06 11:59 Central Europe Standard Time
+"getRandomNumber_SeveralWords_StaysWithinWordCount" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: getRandomNumber_SeveralWords_StaysWithinWordCount
@@ -718,7 +718,7 @@ All tests passed (60 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"getRandomNumber_SeveralWords_StaysWithinWordCount" end time: Nov 06 11:59 Central Europe Standard Time
+"getRandomNumber_SeveralWords_StaysWithinWordCount" end time: Nov 09 20:41 Central Europe Standard Time
 "getRandomNumber_SeveralWords_StaysWithinWordCount" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -726,7 +726,7 @@ Test Passed.
 39/57 Test: chooseRandomWord_SingleWord_ReturnsThatWord
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "chooseRandomWord_SingleWord_ReturnsThatWord"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"chooseRandomWord_SingleWord_ReturnsThatWord" start time: Nov 06 11:59 Central Europe Standard Time
+"chooseRandomWord_SingleWord_ReturnsThatWord" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: chooseRandomWord_SingleWord_ReturnsThatWord
@@ -737,7 +737,7 @@ All tests passed (2 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"chooseRandomWord_SingleWord_ReturnsThatWord" end time: Nov 06 11:59 Central Europe Standard Time
+"chooseRandomWord_SingleWord_ReturnsThatWord" end time: Nov 09 20:41 Central Europe Standard Time
 "chooseRandomWord_SingleWord_ReturnsThatWord" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -745,7 +745,7 @@ Test Passed.
 40/57 Test: chooseRandomWord_MissingFile_ReturnsFileNotOpen
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "chooseRandomWord_MissingFile_ReturnsFileNotOpen"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"chooseRandomWord_MissingFile_ReturnsFileNotOpen" start time: Nov 06 11:59 Central Europe Standard Time
+"chooseRandomWord_MissingFile_ReturnsFileNotOpen" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: chooseRandomWord_MissingFile_ReturnsFileNotOpen
@@ -756,7 +756,7 @@ All tests passed (2 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"chooseRandomWord_MissingFile_ReturnsFileNotOpen" end time: Nov 06 11:59 Central Europe Standard Time
+"chooseRandomWord_MissingFile_ReturnsFileNotOpen" end time: Nov 09 20:41 Central Europe Standard Time
 "chooseRandomWord_MissingFile_ReturnsFileNotOpen" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -764,7 +764,7 @@ Test Passed.
 41/57 Test: chooseRandomWord_EmptyOrWhitespaceFile_ReturnsIndexWordNotExist
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "chooseRandomWord_EmptyOrWhitespaceFile_ReturnsIndexWordNotExist"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"chooseRandomWord_EmptyOrWhitespaceFile_ReturnsIndexWordNotExist" start time: Nov 06 11:59 Central Europe Standard Time
+"chooseRandomWord_EmptyOrWhitespaceFile_ReturnsIndexWordNotExist" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: chooseRandomWord_EmptyOrWhitespaceFile_ReturnsIndexWordNotExist
@@ -775,7 +775,7 @@ All tests passed (4 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"chooseRandomWord_EmptyOrWhitespaceFile_ReturnsIndexWordNotExist" end time: Nov 06 11:59 Central Europe Standard Time
+"chooseRandomWord_EmptyOrWhitespaceFile_ReturnsIndexWordNotExist" end time: Nov 09 20:41 Central Europe Standard Time
 "chooseRandomWord_EmptyOrWhitespaceFile_ReturnsIndexWordNotExist" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -783,7 +783,7 @@ Test Passed.
 42/57 Test: chooseRandomWord_SeveralWords_ReturnsDictionaryMember
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "chooseRandomWord_SeveralWords_ReturnsDictionaryMember"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"chooseRandomWord_SeveralWords_ReturnsDictionaryMember" start time: Nov 06 11:59 Central Europe Standard Time
+"chooseRandomWord_SeveralWords_ReturnsDictionaryMember" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: chooseRandomWord_SeveralWords_ReturnsDictionaryMember
@@ -794,7 +794,7 @@ All tests passed (2 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"chooseRandomWord_SeveralWords_ReturnsDictionaryMember" end time: Nov 06 11:59 Central Europe Standard Time
+"chooseRandomWord_SeveralWords_ReturnsDictionaryMember" end time: Nov 09 20:41 Central Europe Standard Time
 "chooseRandomWord_SeveralWords_ReturnsDictionaryMember" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -802,7 +802,7 @@ Test Passed.
 43/57 Test: createWord_ValidDictionary_SetsWordAndMask
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "createWord_ValidDictionary_SetsWordAndMask"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"createWord_ValidDictionary_SetsWordAndMask" start time: Nov 06 11:59 Central Europe Standard Time
+"createWord_ValidDictionary_SetsWordAndMask" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: createWord_ValidDictionary_SetsWordAndMask
@@ -810,10 +810,10 @@ Filters: createWord_ValidDictionary_SetsWordAndMask
 All tests passed (3 assertions in 1 test case)
 
 <end of output>
-Test time =   0.02 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"createWord_ValidDictionary_SetsWordAndMask" end time: Nov 06 11:59 Central Europe Standard Time
+"createWord_ValidDictionary_SetsWordAndMask" end time: Nov 09 20:41 Central Europe Standard Time
 "createWord_ValidDictionary_SetsWordAndMask" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -821,7 +821,7 @@ Test Passed.
 44/57 Test: createWord_MissingFile_ReturnsFileNotOpen
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "createWord_MissingFile_ReturnsFileNotOpen"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"createWord_MissingFile_ReturnsFileNotOpen" start time: Nov 06 11:59 Central Europe Standard Time
+"createWord_MissingFile_ReturnsFileNotOpen" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: createWord_MissingFile_ReturnsFileNotOpen
@@ -829,10 +829,10 @@ Filters: createWord_MissingFile_ReturnsFileNotOpen
 All tests passed (1 assertion in 1 test case)
 
 <end of output>
-Test time =   0.01 sec
+Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"createWord_MissingFile_ReturnsFileNotOpen" end time: Nov 06 11:59 Central Europe Standard Time
+"createWord_MissingFile_ReturnsFileNotOpen" end time: Nov 09 20:41 Central Europe Standard Time
 "createWord_MissingFile_ReturnsFileNotOpen" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -840,7 +840,7 @@ Test Passed.
 45/57 Test: createWord_EmptyDictionary_ReturnsIndexWordNotExist
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "createWord_EmptyDictionary_ReturnsIndexWordNotExist"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"createWord_EmptyDictionary_ReturnsIndexWordNotExist" start time: Nov 06 11:59 Central Europe Standard Time
+"createWord_EmptyDictionary_ReturnsIndexWordNotExist" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: createWord_EmptyDictionary_ReturnsIndexWordNotExist
@@ -851,7 +851,7 @@ All tests passed (1 assertion in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"createWord_EmptyDictionary_ReturnsIndexWordNotExist" end time: Nov 06 11:59 Central Europe Standard Time
+"createWord_EmptyDictionary_ReturnsIndexWordNotExist" end time: Nov 09 20:41 Central Europe Standard Time
 "createWord_EmptyDictionary_ReturnsIndexWordNotExist" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -859,7 +859,7 @@ Test Passed.
 46/57 Test: openLetter_RepeatedLetter_RevealsAllOccurrences
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "openLetter_RepeatedLetter_RevealsAllOccurrences"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"openLetter_RepeatedLetter_RevealsAllOccurrences" start time: Nov 06 11:59 Central Europe Standard Time
+"openLetter_RepeatedLetter_RevealsAllOccurrences" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: openLetter_RepeatedLetter_RevealsAllOccurrences
@@ -870,7 +870,7 @@ All tests passed (3 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"openLetter_RepeatedLetter_RevealsAllOccurrences" end time: Nov 06 11:59 Central Europe Standard Time
+"openLetter_RepeatedLetter_RevealsAllOccurrences" end time: Nov 09 20:41 Central Europe Standard Time
 "openLetter_RepeatedLetter_RevealsAllOccurrences" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -878,7 +878,7 @@ Test Passed.
 47/57 Test: openLetter_AbsentLetter_LeavesMaskUnchanged
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "openLetter_AbsentLetter_LeavesMaskUnchanged"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"openLetter_AbsentLetter_LeavesMaskUnchanged" start time: Nov 06 11:59 Central Europe Standard Time
+"openLetter_AbsentLetter_LeavesMaskUnchanged" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: openLetter_AbsentLetter_LeavesMaskUnchanged
@@ -889,7 +889,7 @@ All tests passed (2 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"openLetter_AbsentLetter_LeavesMaskUnchanged" end time: Nov 06 11:59 Central Europe Standard Time
+"openLetter_AbsentLetter_LeavesMaskUnchanged" end time: Nov 09 20:41 Central Europe Standard Time
 "openLetter_AbsentLetter_LeavesMaskUnchanged" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -897,7 +897,7 @@ Test Passed.
 48/57 Test: encryptWord_CreatedWord_PreservesOneMaskCharacterPerLetter
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "encryptWord_CreatedWord_PreservesOneMaskCharacterPerLetter"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"encryptWord_CreatedWord_PreservesOneMaskCharacterPerLetter" start time: Nov 06 11:59 Central Europe Standard Time
+"encryptWord_CreatedWord_PreservesOneMaskCharacterPerLetter" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: encryptWord_CreatedWord_PreservesOneMaskCharacterPerLetter
@@ -908,7 +908,7 @@ All tests passed (2 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"encryptWord_CreatedWord_PreservesOneMaskCharacterPerLetter" end time: Nov 06 11:59 Central Europe Standard Time
+"encryptWord_CreatedWord_PreservesOneMaskCharacterPerLetter" end time: Nov 09 20:41 Central Europe Standard Time
 "encryptWord_CreatedWord_PreservesOneMaskCharacterPerLetter" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -916,7 +916,7 @@ Test Passed.
 49/57 Test: chooseRandomWord_MixedCaseDictionary_ReturnsLowercaseWord
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "chooseRandomWord_MixedCaseDictionary_ReturnsLowercaseWord"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"chooseRandomWord_MixedCaseDictionary_ReturnsLowercaseWord" start time: Nov 06 11:59 Central Europe Standard Time
+"chooseRandomWord_MixedCaseDictionary_ReturnsLowercaseWord" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: chooseRandomWord_MixedCaseDictionary_ReturnsLowercaseWord
@@ -924,10 +924,10 @@ Filters: chooseRandomWord_MixedCaseDictionary_ReturnsLowercaseWord
 All tests passed (2 assertions in 1 test case)
 
 <end of output>
-Test time =   0.02 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"chooseRandomWord_MixedCaseDictionary_ReturnsLowercaseWord" end time: Nov 06 11:59 Central Europe Standard Time
+"chooseRandomWord_MixedCaseDictionary_ReturnsLowercaseWord" end time: Nov 09 20:41 Central Europe Standard Time
 "chooseRandomWord_MixedCaseDictionary_ReturnsLowercaseWord" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -935,7 +935,7 @@ Test Passed.
 50/57 Test: success_IntegerValue42_HasValueAndReturns42
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "success_IntegerValue42_HasValueAndReturns42"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"success_IntegerValue42_HasValueAndReturns42" start time: Nov 06 11:59 Central Europe Standard Time
+"success_IntegerValue42_HasValueAndReturns42" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: success_IntegerValue42_HasValueAndReturns42
@@ -946,7 +946,7 @@ All tests passed (2 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"success_IntegerValue42_HasValueAndReturns42" end time: Nov 06 11:59 Central Europe Standard Time
+"success_IntegerValue42_HasValueAndReturns42" end time: Nov 09 20:41 Central Europe Standard Time
 "success_IntegerValue42_HasValueAndReturns42" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -954,7 +954,7 @@ Test Passed.
 51/57 Test: success_FalseValue_IsStillSuccessful
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "success_FalseValue_IsStillSuccessful"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"success_FalseValue_IsStillSuccessful" start time: Nov 06 11:59 Central Europe Standard Time
+"success_FalseValue_IsStillSuccessful" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: success_FalseValue_IsStillSuccessful
@@ -965,7 +965,7 @@ All tests passed (3 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"success_FalseValue_IsStillSuccessful" end time: Nov 06 11:59 Central Europe Standard Time
+"success_FalseValue_IsStillSuccessful" end time: Nov 09 20:41 Central Europe Standard Time
 "success_FalseValue_IsStillSuccessful" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -973,7 +973,7 @@ Test Passed.
 52/57 Test: failure_ErrorCode_HasNoValueAndReturnsError
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "failure_ErrorCode_HasNoValueAndReturnsError"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"failure_ErrorCode_HasNoValueAndReturnsError" start time: Nov 06 11:59 Central Europe Standard Time
+"failure_ErrorCode_HasNoValueAndReturnsError" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: failure_ErrorCode_HasNoValueAndReturnsError
@@ -981,10 +981,10 @@ Filters: failure_ErrorCode_HasNoValueAndReturnsError
 All tests passed (2 assertions in 1 test case)
 
 <end of output>
-Test time =   0.01 sec
+Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"failure_ErrorCode_HasNoValueAndReturnsError" end time: Nov 06 11:59 Central Europe Standard Time
+"failure_ErrorCode_HasNoValueAndReturnsError" end time: Nov 09 20:41 Central Europe Standard Time
 "failure_ErrorCode_HasNoValueAndReturnsError" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -992,7 +992,7 @@ Test Passed.
 53/57 Test: value_FailedResult_ThrowsLogicError
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "value_FailedResult_ThrowsLogicError"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"value_FailedResult_ThrowsLogicError" start time: Nov 06 11:59 Central Europe Standard Time
+"value_FailedResult_ThrowsLogicError" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: value_FailedResult_ThrowsLogicError
@@ -1000,10 +1000,10 @@ Filters: value_FailedResult_ThrowsLogicError
 All tests passed (1 assertion in 1 test case)
 
 <end of output>
-Test time =   0.01 sec
+Test time =   0.03 sec
 ----------------------------------------------------------
 Test Passed.
-"value_FailedResult_ThrowsLogicError" end time: Nov 06 11:59 Central Europe Standard Time
+"value_FailedResult_ThrowsLogicError" end time: Nov 09 20:41 Central Europe Standard Time
 "value_FailedResult_ThrowsLogicError" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1011,7 +1011,7 @@ Test Passed.
 54/57 Test: error_SuccessfulResult_ThrowsLogicError
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "error_SuccessfulResult_ThrowsLogicError"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"error_SuccessfulResult_ThrowsLogicError" start time: Nov 06 11:59 Central Europe Standard Time
+"error_SuccessfulResult_ThrowsLogicError" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: error_SuccessfulResult_ThrowsLogicError
@@ -1022,7 +1022,7 @@ All tests passed (1 assertion in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"error_SuccessfulResult_ThrowsLogicError" end time: Nov 06 11:59 Central Europe Standard Time
+"error_SuccessfulResult_ThrowsLogicError" end time: Nov 09 20:41 Central Europe Standard Time
 "error_SuccessfulResult_ThrowsLogicError" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1030,7 +1030,7 @@ Test Passed.
 55/57 Test: operatorBool_SuccessAndFailure_MatchesHasValue
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "operatorBool_SuccessAndFailure_MatchesHasValue"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"operatorBool_SuccessAndFailure_MatchesHasValue" start time: Nov 06 11:59 Central Europe Standard Time
+"operatorBool_SuccessAndFailure_MatchesHasValue" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: operatorBool_SuccessAndFailure_MatchesHasValue
@@ -1038,10 +1038,10 @@ Filters: operatorBool_SuccessAndFailure_MatchesHasValue
 All tests passed (2 assertions in 1 test case)
 
 <end of output>
-Test time =   0.03 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"operatorBool_SuccessAndFailure_MatchesHasValue" end time: Nov 06 11:59 Central Europe Standard Time
+"operatorBool_SuccessAndFailure_MatchesHasValue" end time: Nov 09 20:41 Central Europe Standard Time
 "operatorBool_SuccessAndFailure_MatchesHasValue" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1049,7 +1049,7 @@ Test Passed.
 56/57 Test: moveConstructor_SuccessfulResult_TransfersValue
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "moveConstructor_SuccessfulResult_TransfersValue"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"moveConstructor_SuccessfulResult_TransfersValue" start time: Nov 06 11:59 Central Europe Standard Time
+"moveConstructor_SuccessfulResult_TransfersValue" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: moveConstructor_SuccessfulResult_TransfersValue
@@ -1060,7 +1060,7 @@ All tests passed (5 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"moveConstructor_SuccessfulResult_TransfersValue" end time: Nov 06 11:59 Central Europe Standard Time
+"moveConstructor_SuccessfulResult_TransfersValue" end time: Nov 09 20:41 Central Europe Standard Time
 "moveConstructor_SuccessfulResult_TransfersValue" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1068,7 +1068,7 @@ Test Passed.
 57/57 Test: moveConstructor_FailedResult_TransfersError
 Command: "D:/3-semestr/PCC/Semestralni_prace/build/HangmanTests.exe" "moveConstructor_FailedResult_TransfersError"
 Directory: D:/3-semestr/PCC/Semestralni_prace
-"moveConstructor_FailedResult_TransfersError" start time: Nov 06 11:59 Central Europe Standard Time
+"moveConstructor_FailedResult_TransfersError" start time: Nov 09 20:41 Central Europe Standard Time
 Output:
 ----------------------------------------------------------
 Filters: moveConstructor_FailedResult_TransfersError
@@ -1079,8 +1079,8 @@ All tests passed (3 assertions in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"moveConstructor_FailedResult_TransfersError" end time: Nov 06 11:59 Central Europe Standard Time
+"moveConstructor_FailedResult_TransfersError" end time: Nov 09 20:41 Central Europe Standard Time
 "moveConstructor_FailedResult_TransfersError" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Nov 06 11:59 Central Europe Standard Time
+End testing: Nov 09 20:41 Central Europe Standard Time

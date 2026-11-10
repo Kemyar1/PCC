@@ -1,3 +1,4 @@
+// String streams supply test input and capture UI output without using the terminal.
 #include "../ui/TerminalUI.h"
 #include "TestData.h"
 #include "vendor/catch.hpp"

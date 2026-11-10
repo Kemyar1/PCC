@@ -1,3 +1,4 @@
+// Terminal interaction and presentation, including colored feedback and hangman stages.
 #include "TerminalUI.h"
 #include <iostream>
 
@@ -30,6 +31,7 @@ std::optional<int> TerminalUI::readInt(const std::string &prompt) const {
     return value;
 }
 
+// Read the whole line to reject empty or multi-character guesses as a single input.
 std::optional<char> TerminalUI::readChar(const std::string &prompt) const {
     output << prompt;
 
@@ -69,6 +71,7 @@ std::string TerminalUI::readLine(const std::string &prompt) const {
 void TerminalUI::execute() {
     auto resultGame = game.resetGame();
     
+    // Stop the round immediately if the dictionary could not provide a word.
     switch (resultGame) {
         case GameInitStatus::FileNotOpen:
             output << UI_ORANGE << "ERROR: File was not opened\n" << UI_RESET;
@@ -83,6 +86,7 @@ void TerminalUI::execute() {
     }
 
     while (true) {
+        // Check the outcome before EOF: the last input may already have won the game.
         auto result = handlePrintUserStatus();
             switch (result) {
                 case UserStatus::Playing:
@@ -168,6 +172,7 @@ const Result<bool, GuessLetterError> TerminalUI::handleTypeLetter() const {
         return Result<bool, GuessLetterError>::failure(GuessLetterError::InvalidType);
     }
 
+    // Translate core results into colored feedback; the game updates its own state.
     auto result = game.guessLetter(*letter);
     if (!result.hasValue()) {
         switch (result.error()) {
@@ -245,6 +250,7 @@ void TerminalUI::handleViewWord() {
               << UI_RESET << "\n\n";
 }
 
+// Select the drawing by mistake count; the individual stages only print ASCII art.
 void TerminalUI::drawHangmanStage(int mistakes) {
     if (mistakes <= 0) {
         drawStage0();

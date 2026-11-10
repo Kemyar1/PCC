@@ -1,3 +1,4 @@
+// Tests game rules and state changes using dictionary fixtures with known contents.
 #include "../core/HangmanGame.h"
 #include "TestData.h"
 #include "vendor/catch.hpp"
