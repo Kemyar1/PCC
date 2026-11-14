@@ -11,25 +11,6 @@ constexpr const char* UI_CYAN = "\x1B[36m";
 TerminalUI::TerminalUI(HangmanGame& game, std::istream& input, std::ostream& output)
     : game(game), input(input), output(output) {}
 
-std::optional<int> TerminalUI::readInt(const std::string &prompt) const {
-    output << prompt;
-
-    int value;
-    input >> value; 
-
-    if (input.fail()) {
-        if (input.eof() || input.bad()) {
-            return std::nullopt;
-        }
-
-        input.clear();
-        input.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
-
-        return std::nullopt;
-    }
-
-    return value;
-}
 
 // Read the whole line to reject empty or multi-character guesses as a single input.
 std::optional<char> TerminalUI::readChar(const std::string &prompt) const {
@@ -56,17 +37,6 @@ std::optional<char> TerminalUI::readChar(const std::string &prompt) const {
     return value[0];
 }
 
-std::string TerminalUI::readLine(const std::string &prompt) const {
-    output << prompt;
-
-    std::string result;
-    if (std::getline(input >> std::ws, result)) {
-        return result;
-    } 
-
-    output << "Error\n";
-    return "";
-}
 
 void TerminalUI::execute() {
     auto resultGame = game.resetGame();
