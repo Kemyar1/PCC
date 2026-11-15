@@ -3,7 +3,7 @@
 **Autor:** Kemyar Achilov  
 **Předmět:** PCC, ČVUT FEL  
 **Aktualizace dokumentace:** 10. listopadu 2026  
-**Verze kódu:** `2629f23601802228371e253f534357215c49ea65`  
+**Verze kódu:** `e5cd94d4ae6dcfe5bde6a4a6281f7cad08a27937`  
 **Repozitář:** [Kemyar1/PCC](https://github.com/Kemyar1/PCC)
 
 Hangman je terminálová hra pro jednoho hráče v C++23. Dokumentace popisuje pravidla, třídy a metody, sestavení, ovládání a ověření programu. Rozhraní hry je v angličtině.
@@ -244,10 +244,4 @@ K semestrální práci se odevzdávají **dvě videa**. Videa se kvůli velikost
 
 [5] ISO C++ WORKING DRAFT. Predefined macro names, `__FILE__`. [https://eel.is/c++draft/cpp.predefined](https://eel.is/c++draft/cpp.predefined) [cit. 2026-11-09].
 
-[6] OPENAI. ChatGPT. [https://chatgpt.com/](https://chatgpt.com/) [používáno během projektu, cit. 2026-11-09].
-
-[7] Slovník hangman_data/words.txt. DOPLNIT původ, autora, odkaz a podmínky použití; u vlastního slovníku uvést vlastní sestavení.
-
-[8] MICROSOFT. PowerShell, pravidla řetězců a operátory. [https://learn.microsoft.com/powershell/](https://learn.microsoft.com/powershell/) [cit. 2026-11-09].
-
-**Použití AI [6]:** konzultace návrhu, vysvětlení C++, návrhy části testů a oprav, úpravy terminálových výpisů a příprava dokumentace. Za kontrolu výsledku a vysvětlení kódu odpovídá autor. Dokumentace se odevzdává jako `README.md` v kořenové složce projektu vedle `main.cpp`.
+[6] MICROSOFT. PowerShell, pravidla řetězců a operátory. [https://learn.microsoft.com/powershell/](https://learn.microsoft.com/powershell/) [cit. 2026-11-09].
